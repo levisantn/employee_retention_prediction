@@ -30,10 +30,7 @@ Building a statistical model to predict the probability of a binary outcome base
 
 Creating decision trees or random forests to predict a target variable, handling both numerical and categorical data, and evaluating model performance using metrics like accuracy, precision, recall, and F1-score.
 
-## Dataset
-
-![](data/HR_dataset.csv)
-
+## [Dataset](data/HR_dataset.csv)
 | Variable              | Description                                                       |
 | --------------------- | ----------------------------------------------------------------- |
 | satisfaction_level    | Employee-reported job satisfaction level [0&ndash;1]              |
